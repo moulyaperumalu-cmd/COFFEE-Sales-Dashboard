@@ -1,14 +1,14 @@
-#☕ Coffee Sales Dashboard (Power BI)
+#Coffee Sales Dashboard (Power BI)
 
-##📌 Project Name :
+##Project Name :
 Coffee Sales Dashboard using Power BI
 
-##📖 Project Description :
+##Project Description :
 The Coffee Sales Dashboard is an interactive Power BI project designed to analyze coffee shop sales data and provide meaningful business insights. The dashboard helps business owners understand sales performance, customer purchasing patterns, product demand, and monthly sales trends through easy-to-understand visualizations.
 The dashboard presents important KPIs such as Total Sales, Total Transactions, Average Price, Sales by Month, Sales by Product, and Sales by Time of Day, allowing users to make informed business decisions.
 
 
-##🎯 Project Objective :
+##Project Objective :
 The main objective of this project is to:
 •	Analyze coffee shop sales performance. 
 •	Monitor monthly sales trends. 
@@ -20,7 +20,7 @@ The main objective of this project is to:
 
 
 
-##📂 Dataset Used :
+##Dataset Used :
 ###Dataset Name:
 Coffee Shop Sales Dataset
 ###Dataset Source:
@@ -30,7 +30,7 @@ Maven Analytics Coffee Shop Sales Dataset
 
 
 
-##📊 Dashboard KPIs :
+##Dashboard KPIs :
 The dashboard answers the following business questions:
 
 ###1. What is the Total Sales?
@@ -61,7 +61,7 @@ Helps identify peak business periods.
 Identifies products that may require promotional strategies.
 
 
-##⚙️ Process :
+##Process :
 The following steps were followed to build this dashboard:
 ###Step 1:
 Collected the Coffee Shop Sales dataset.
@@ -90,7 +90,7 @@ Applied a coffee-themed dashboard design using colors, icons, and images to impr
 Reviewed the dashboard to ensure all calculations and visuals displayed accurate information.
 
 
-##💡 Project Insights :
+##Project Insights :
 The dashboard provides the following insights:
 •	Total Sales reached 115.43K. 
 •	A total of 3.636K transactions were completed. 
@@ -103,7 +103,7 @@ The dashboard provides the following insights:
 •	Sales are distributed almost equally across Morning, Afternoon, and Night, indicating consistent customer traffic throughout the day. 
 
 
-##📈 Dashboard Overview :
+##Dashboard Overview :
 The dashboard consists of the following sections:
 ####🔹 KPI Cards:
 •	Total Sales 
@@ -125,13 +125,13 @@ This helps understand customer purchasing behavior throughout the day.
 A horizontal bar chart ranks coffee products according to total sales, making it easy to identify best-selling and least-selling products.
 
 
-##🛠 Tools Used :
+##Tools Used :
 •	Microsoft Power BI 
 •	Power Query 
 •	DAX (Data Analysis Expressions) 
 •	Microsoft Excel / CSV Dataset 
 
-##📚 Skills Demonstrated
+##Skills Demonstrated
 •	Data Cleaning 
 •	Data Transformation 
 •	Data Modeling 
@@ -143,7 +143,7 @@ A horizontal bar chart ranks coffee products according to total sales, making it
 •	Storytelling with Data 
 
 
-##✅ Final Conclusion
+##Final Conclusion
 The Coffee Sales Dashboard successfully transforms raw sales data into meaningful business insights using Power BI. It enables stakeholders to monitor sales performance, identify top-selling products, understand customer purchasing behavior, and track monthly business trends. The dashboard's clean design and interactive visuals make it easy to analyze key metrics and support informed business decisions. Overall, this project demonstrates practical skills in data cleaning, visualization, KPI analysis, and business intelligence using Power BI.
 
 
