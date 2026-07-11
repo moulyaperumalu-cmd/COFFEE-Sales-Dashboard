@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard (Power BI)
+# Coffee Sales Dashboard 
 
 
 ## Project Name :
