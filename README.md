@@ -23,6 +23,9 @@ The main objective of this project is to:
 ## Dashboard :
 https://github.com/moulyaperumalu-cmd/COFFEE-Sales-Dashboard/blob/main/Coffee%20sales%20dashboard%20.png
 
+<img width="1266" height="732" alt="Coffee sales dashboard " src="https://github.com/user-attachments/assets/1114aa66-7ffb-4f80-b9c1-65df0b8f675e" />
+
+
 
 ## Dataset Used :
 ### Dataset Name:
