@@ -27,6 +27,7 @@ Coffee Shop Sales Dataset
 ### Dataset Source:
 Maven Analytics Coffee Shop Sales Dataset
 ### Dataset Link:
+https://github.com/moulyaperumalu-cmd/COFFEE-Sales-Dashboard/blob/main/Coffee_sales.xlsx
 
 
 ## Dashboard KPIs :
